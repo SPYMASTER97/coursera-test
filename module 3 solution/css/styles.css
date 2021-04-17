@@ -1,0 +1,77 @@
+body{
+	font-size: 25px;
+	color: solid black;
+	font-family: 'Noto Serif', serif;
+}
+
+#header-nav{
+	background-color: #7f7f7f;
+	border: 2px solid black;
+	border-radius: 0;
+}
+
+.navbar-brand span{
+	font-size: 25px;
+	color: #323334;
+	font-family: 'Noto Serif', serif;
+}
+
+.navbar-header button.navbar-toggle, .navbar-toggle .icon-bar{
+	border: 3px solid black;
+}
+
+.navbar-header button.navbar-toggle{
+	float: right;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+
+#nav-list a:hover{
+	background: #e7e7e7;
+}
+
+h1{
+	text-align:center;
+	color:black;
+}
+
+#main-content .row{
+	width: 100%;
+}
+
+section{
+	position: relative;
+	background-color: #d3d3d3;
+	border : 2px solid black;
+	float:left;
+	margin-top: 25px;
+}
+
+
+#sectiontitle1 , #sectiontitle2 , #sectiontitle3{
+	text-align: center;
+	border-bottom: 2px solid black;
+	background-color: #add8e6;
+	font-family: Arial, sans-serif;
+	color : solid black;
+	font-size: 12px;
+	font-weight: bold;
+}
+p{
+  padding: 20px;
+  font-family: Helvetica, sans-serif;
+  color: solid black;
+  font-size: 10px;
+}
+
